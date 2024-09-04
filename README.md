@@ -36,7 +36,7 @@ ES7+
 ````
 ## Evidencias Aula02
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20;">
     <div style="text-align: center;">
         <p>Exercicio01</p>
         <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex01.jpeg?raw=true" height="300px" />
