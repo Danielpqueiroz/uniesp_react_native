@@ -36,6 +36,28 @@ ES7+
 ````
 ## Evidencias Aula02
 
+<table>
+  <tr>
+    <td align="center">
+      <b>Exercicio01</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex01.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio02</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex02.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio03</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex03.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio04</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex04.jpeg?raw=true" height="300px" />
+    </td>
+  </tr>
+</table>
+
+
 <div style="display: flex; justify-content: center; gap: 20;">
     <div style="text-align: center;">
         <p>Exercicio01</p>
