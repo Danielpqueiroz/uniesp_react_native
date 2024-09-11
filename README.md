@@ -34,6 +34,30 @@ Extenção necesssaria:
 ````bash
 ES7+
 ````
+
+## Evidencias Aula01
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Exercicio01</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula01/reports/Ex01.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio02</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula01/reports/Ex02.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio03</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula01/reports/Ex03.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio04</b><br>
+      <img src="" height="300px" />
+    </td>
+  </tr>
+</table>
+
 ## Evidencias Aula02
 
 <table>
