@@ -15,12 +15,13 @@ const HomeScreeen = ({ navigation }) => {
                 <TouchableOpacity
                     key={user.id}
                     style={styles.userCard}
+                    onPress={() => navigation.navigate('Details', { user })}
                     >
                         <Text style={styles.userName}>
                             {user.name}
                         </Text>
 
-                    </TouchableOpacity>
+                </TouchableOpacity>
 
             ))
         }
