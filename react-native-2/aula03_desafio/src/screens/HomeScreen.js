@@ -1,30 +1,29 @@
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import React from 'react'
 
-const HomeScreeen = ({ navigation }) => {
+const HomeScreen = ({ navigation }) => {
 
     const users = [
-        { id: 1, name: 'Jonh Doe', age: 30, gender: 'male' },
-        { id: 2, name: 'Jane Doe', age: 25, gender: 'female' }
+        { id: 1, name: 'John Doe', age: 30, gender: 'male' },
+        { id: 2, name: 'Daniel P', age: 29, gender: 'male' },
+        { id: 3, name: 'Jane Doe', age: 25, gender: 'female' }
     ]
 
   return (
     <View style={styles.container}>
-        { 
-            users.map((user) => (
-                <TouchableOpacity
-                    key={user.id}
-                    style={styles.userCard}
-                    onPress={() => navigation.navigate('Details', { user })}
-                    >
-                        <Text style={styles.userName}>
-                            {user.name}
-                        </Text>
-
+      { /* Falta o onPress */
+        users.map((user) => (
+            <TouchableOpacity
+                key={user.id}
+                style={styles.userCard}
+                onPress={() => navigation.navigate('Details', { user })}
+                >
+                    <Text style={styles.userName}>
+                        {user.name}
+                    </Text>
                 </TouchableOpacity>
-
-            ))
-        }
+        ))
+      }
     </View>
   )
 }
@@ -58,6 +57,6 @@ const styles = StyleSheet.create({
     userName: {
       fontSize: 18,
     }
-});
+  });
 
-export default HomeScreeen
+export default HomeScreen

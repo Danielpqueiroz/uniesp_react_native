@@ -38,6 +38,6 @@ const styles = StyleSheet.create({
     detail: {
       fontSize: 16,
     }
-});
+  });
 
 export default DetailsScreen

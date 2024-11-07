@@ -34,6 +34,20 @@ Extenção necesssaria:
 ````bash
 ES7+
 ````
+Bibliotecas necessarias:
+
+Navigation
+````bash
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+````
+
+Date picker e picker
+````bash
+npm install react-native-picker/picker
+npm install react-native-modal-datetime-picker
+````
 
 ## Evidencias Aula01
 
@@ -81,6 +95,33 @@ ES7+
     <td align="center">
       <b>Desafio</b><br>
       <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02_desafio/reports/Lista%20de%20tarefas.jpeg?raw=true" height="300px" />
+    </td>
+  </tr>
+</table>
+
+## Evidencias Aula03
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Exercicio01</b><br>
+      <img src="" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio02</b><br>
+      <img src="" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio03</b><br>
+      <img src="" height="300px" />
+    </td>
+    <td align="center">
+      <b>Exercicio04</b><br>
+      <img src="" height="300px" />
+    </td>
+    <td align="center">
+      <b>Desafio</b><br>
+      <img src="" height="300px" />
     </td>
   </tr>
 </table>
