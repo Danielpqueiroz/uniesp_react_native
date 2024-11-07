@@ -52,8 +52,8 @@ ES7+
       <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula01/reports/Ex03.jpeg?raw=true" height="300px" />
     </td>
     <td align="center">
-      <b>Exercicio04</b><br>
-      <img src="" height="300px" />
+      <b>Desafio</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula01_desafio/reports/Lista%20de%20itens.jpeg?raw=true" height="300px" />
     </td>
   </tr>
 </table>
@@ -64,19 +64,23 @@ ES7+
   <tr>
     <td align="center">
       <b>Exercicio01</b><br>
-      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex01.jpeg?raw=true" height="300px" />
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/reports/ex01.jpeg?raw=true" height="300px" />
     </td>
     <td align="center">
       <b>Exercicio02</b><br>
-      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex02.jpeg?raw=true" height="300px" />
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/reports/ex02.jpeg?raw=true" height="300px" />
     </td>
     <td align="center">
       <b>Exercicio03</b><br>
-      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex03.jpeg?raw=true" height="300px" />
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/reports/ex03.jpeg?raw=true" height="300px" />
     </td>
     <td align="center">
       <b>Exercicio04</b><br>
-      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/src/reports/ex04.jpeg?raw=true" height="300px" />
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02/reports/ex04.jpeg?raw=true" height="300px" />
+    </td>
+    <td align="center">
+      <b>Desafio</b><br>
+      <img src="https://github.com/Danielpqueiroz/uniesp_react_native/blob/main/react-native-2/aula02_desafio/reports/Lista%20de%20tarefas.jpeg?raw=true" height="300px" />
     </td>
   </tr>
 </table>
