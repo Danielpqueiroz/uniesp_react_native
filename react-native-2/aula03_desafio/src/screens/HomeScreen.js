@@ -11,7 +11,7 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      { /* Falta o onPress */
+      { 
         users.map((user) => (
             <TouchableOpacity
                 key={user.id}
@@ -21,7 +21,7 @@ const HomeScreen = ({ navigation }) => {
                     <Text style={styles.userName}>
                         {user.name}
                     </Text>
-                </TouchableOpacity>
+            </TouchableOpacity>
         ))
       }
     </View>
